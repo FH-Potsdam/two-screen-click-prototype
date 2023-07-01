@@ -1,0 +1,40 @@
+{
+  "windows": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1024,
+      "y": 768
+    }
+  ],
+  "images": [
+    [
+      "slide_1-1.png",
+      "slide_1-2.png"
+    ],
+    [
+      "slide_2-1.png",
+      "slide_2-2.png"
+    ],
+    [
+      "slide_3-1.png",
+      "slide_3-2.png"
+    ]
+  ],
+  "reset": {
+    "screen": 0,
+    "x": 0,
+    "y": 0,
+    "width": 40,
+    "height": 40
+  },
+  "back": {
+    "screen": 0,
+    "x": 40,
+    "y": 0,
+    "width": 40,
+    "height": 40
+  }
+}
